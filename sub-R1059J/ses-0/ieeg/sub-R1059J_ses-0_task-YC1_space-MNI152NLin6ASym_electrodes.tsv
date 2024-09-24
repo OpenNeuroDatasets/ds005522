@@ -1,0 +1,178 @@
+name	x	y	z	size	group	hemisphere	type	tal.x	tal.y	tal.z	wb.region	ind.region	das.region	stein.region
+LSTA1	-20.9584	5.15238	-33.9014584380125	-999	LSTA	L	strip	-20.6374	2.67429	-26.7866	n/a	temporalpole	n/a	n/a
+LSTA2	-21.4138	-0.730277	-41.5233725554468	-999	LSTA	L	strip	-21.9883	-4.65892	-32.4074	n/a	entorhinal	n/a	n/a
+LSTA3	-26.9706	-8.34089	-43.8772232345885	-999	LSTA	L	strip	-29.7038	-11.9906	-35.4598	n/a	fusiform	n/a	n/a
+LSTA4	-41.8483	-14.5849	-42.9683953180471	-999	LSTA	L	strip	-39.4287	-16.2393	-34.9861	n/a	inferiortemporal	n/a	n/a
+LSTA5	-54.1838	-14.7753	-38.7234156867852	-999	LSTA	L	strip	-49.7061	-15.5847	-31.2826	n/a	inferiortemporal	n/a	n/a
+LSTA6	-61.385	-8.21462	-35.7643713492672	-999	LSTA	L	strip	-56.1224	-11.3141	-26.2757	n/a	middletemporal	n/a	n/a
+LSTA7	-65.2776	-2.63237	-23.7458399774428	-999	LSTA	L	strip	-63.0601	-5.66405	-19.226	n/a	middletemporal	n/a	n/a
+LSTA8	-64.4028	0.586359	-14.0043172541971	-999	LSTA	L	strip	-66.5923	0.0670563	-12.0743	n/a	superiortemporal	n/a	n/a
+LSTB1	-7.16195	-51.1288	9.49481961147135	-999	LSTB	L	strip	-6.75623	-50.5274	4.9422	n/a	isthmuscingulate	n/a	n/a
+LSTB2	-10.2481	-41.8045	0.525609376376486	-999	LSTB	L	strip	-13.0015	-45.7342	-2.43774	n/a	lingual	n/a	n/a
+LSTB3	-18.2427	-39.8737	-11.3823403340062	-999	LSTB	L	strip	-19.7248	-42.381	-9.81345	n/a	lingual	n/a	n/a
+LSTB4	-27.6316	-32.6529	-21.8533160002376	-999	LSTB	L	strip	-27.4429	-37.4127	-16.1368	n/a	fusiform	n/a	n/a
+LSTB5	-34.671	-26.8085	-30.5939111562685	-999	LSTB	L	strip	-35.1881	-32.0456	-20.6782	n/a	fusiform	n/a	n/a
+LSTB6	-45.2183	-24.6067	-33.8172134606857	-999	LSTB	L	strip	-43.9394	-26.6496	-22.9365	n/a	fusiform	n/a	n/a
+LSTB7	-55.6303	-19.016	-34.3656865437495	-999	LSTB	L	strip	-51.7328	-19.6919	-24.5295	n/a	inferiortemporal	n/a	n/a
+LSTB8	-64.8145	-12.0744	-31.1656460598758	-999	LSTB	L	strip	-57.6292	-10.6511	-23.201	n/a	middletemporal	n/a	n/a
+LPT1	-45.8235	-86.3292	-2.2258643966576	-999	LPT	L	strip	-43.0821	-84.8933	1.65704	n/a	lateraloccipital	n/a	n/a
+LPT2	-52.697	-77.1992	-4.95753637322988	-999	LPT	L	strip	-48.4189	-76.0447	-2.07014	n/a	lateraloccipital	n/a	n/a
+LPT3	-55.1717	-69.9892	-10.9346511969511	-999	LPT	L	strip	-54.2473	-68.447	-5.11141	n/a	fusiform	n/a	n/a
+LPT4	-61.1205	-60.3306	-16.9930628256036	-999	LPT	L	strip	-59.5826	-60.9375	-8.58365	n/a	inferiortemporal	n/a	n/a
+LPT5	-67.0585	-49.4687	-18.8561394452325	-999	LPT	L	strip	-62.988	-50.9503	-11.5316	n/a	inferiortemporal	n/a	n/a
+LPT6	-70.2158	-36.6095	-21.247335234539	-999	LPT	L	strip	-65.4339	-40.7408	-13.5595	n/a	inferiortemporal	n/a	n/a
+LPT7	-65.8334	-26.8286	-28.5206976132893	-999	LPT	L	strip	-63.9878	-30.4388	-15.4709	n/a	inferiortemporal	n/a	n/a
+LPT8	-69.3566	-18.4511	-25.97100321223	-999	LPT	L	strip	-63.0404	-20.8418	-16.3359	n/a	middletemporal	n/a	n/a
+LIHA1	-0.164181	55.5336	-16.9610016562406	-999	LIHA	L	strip	-1.05861	57.631	-15.663	n/a	medialorbitofrontal	n/a	n/a
+LIHA2	2.94591	51.2221	-4.43677008625983	-999	LIHA	R	strip	-0.231463	58.0615	-5.49327	n/a	medialorbitofrontal	n/a	n/a
+LIHA3	-0.00407658	59.9358	2.22609747010449	-999	LIHA	L	strip	0.597417	57.1899	5.67176	n/a	superiorfrontal	n/a	n/a
+LIHA4	-0.12112	55.9018	14.2748826373645	-999	LIHA	L	strip	0.446543	56.409	17.5389	n/a	superiorfrontal	n/a	n/a
+LIHB1	-0.168275	14.9715	21.9101014409033	-999	LIHB	L	strip	-3.88155	17.4929	25.3079	n/a	caudalanteriorcingulate	n/a	n/a
+LIHB2	2.13441	21.7528	38.5417407157617	-999	LIHB	R	strip	-0.572829	26.0358	30.3123	n/a	caudalanteriorcingulate	n/a	n/a
+LIHB3	-1.39091	25.0689	41.9300053512918	-999	LIHB	L	strip	-0.671441	35.8355	34.9317	n/a	superiorfrontal	n/a	n/a
+LIHB4	-1.04118	39.5498	44.3980449828722	-999	LIHB	L	strip	-4.19235	43.1827	41.4497	n/a	superiorfrontal	n/a	n/a
+RFA1	70.4542	-34.3938	-23.3676956247929	-999	RFA	R	strip	61.6898	-36.7938	-20.1536	n/a	inferiortemporal	n/a	n/a
+RFA2	72.3491	-29.1991	-24.4494102659991	-999	RFA	R	strip	65.0563	-26.9397	-20.0547	n/a	middletemporal	n/a	n/a
+RFA3	68.1722	-14.2485	-23.0891619414522	-999	RFA	R	strip	66.9301	-17.0682	-17.6872	n/a	middletemporal	n/a	n/a
+RFA5	63.6231	0.368542	-11.89364926017	-999	RFA	R	strip	61.375	2.0131	-8.96457	n/a	superiortemporal	n/a	n/a
+RFA6	60.107	8.14062	-11.6506455609506	-999	RFA	R	strip	57.8726	10.3706	-4.63527	n/a	parsopercularis	n/a	n/a
+RFA7	60.2725	17.0608	0.141639517915367	-999	RFA	R	strip	55.342	19.6465	-0.395923	n/a	parstriangularis	n/a	n/a
+RFA8	60.2664	26.6308	7.53424335444375	-999	RFA	R	strip	54.2655	28.1865	4.95271	n/a	parstriangularis	n/a	n/a
+RFB1	15.8079	19.9269	-28.1766846220099	-999	RFB	R	strip	15.734	12.278	-19.9264	n/a	lateralorbitofrontal	n/a	n/a
+RFB2	21.1829	26.2582	-29.9136771484196	-999	RFB	R	strip	23.4953	19.8047	-20.1626	n/a	lateralorbitofrontal	n/a	n/a
+RFB3	28.4095	30.1993	-26.7373456942311	-999	RFB	R	strip	30.2483	29.146	-18.4552	n/a	lateralorbitofrontal	n/a	n/a
+RFB5	41.1988	43.1642	-20.4537228650252	-999	RFB	R	strip	43.3173	45.3335	-17.8338	n/a	parsorbitalis	n/a	n/a
+RFB6	48.0097	48.7793	-13.3694585867025	-999	RFB	R	strip	49.0397	48.0595	-10.2558	n/a	parstriangularis	n/a	n/a
+RFB7	51.2819	49.23	-0.668521686102941	-999	RFB	R	strip	46.4777	45.9855	-0.497429	n/a	rostralmiddlefrontal	n/a	n/a
+RFB8	53.1799	45.4419	9.09301592090302	-999	RFB	R	strip	48.7942	43.8615	9.19022	n/a	rostralmiddlefrontal	n/a	n/a
+RFC1	5.5001	60.2805	-25.7131807407772	-999	RFC	R	strip	8.77771	57.6064	-22.7545	n/a	lateralorbitofrontal	n/a	n/a
+RFC2	12.0053	64.8246	-19.9673819052626	-999	RFC	R	strip	13.5285	64.2272	-16.4161	n/a	frontalpole	n/a	n/a
+RFC3	18.506	67.9571	-9.13427396778266	-999	RFC	R	strip	18.7414	69.4729	-7.94125	n/a	frontalpole	n/a	n/a
+RFC5	21.3861	67.5888	12.8175432175171	-999	RFC	R	strip	22.8734	66.2878	11.7886	n/a	superiorfrontal	n/a	n/a
+RFC6	21.4298	63.3814	23.6988912931116	-999	RFC	R	strip	22.7963	59.5814	19.7734	n/a	rostralmiddlefrontal	n/a	n/a
+RFC7	22.0278	52.6314	33.6675467673049	-999	RFC	R	strip	22.7179	53.7674	27.5762	n/a	rostralmiddlefrontal	n/a	n/a
+RFC8	29.3235	46.493	39.6091460262079	-999	RFC	R	strip	25.0374	49.4129	37.7186	n/a	superiorfrontal	n/a	n/a
+RFD1	69.0973	-41.6059	32.4918915562094	-999	RFD	R	strip	64.361	-35.7751	34.1595	n/a	supramarginal	n/a	n/a
+RFD2	68.4435	-31.4281	34.2998745732406	-999	RFD	R	strip	62.8287	-25.5253	36.596	n/a	supramarginal	n/a	n/a
+RFD3	66.6205	-24.1428	40.216976454992	-999	RFD	R	strip	60.8172	-15.835	38.6191	n/a	supramarginal	n/a	n/a
+RFD5	59.6464	0.461414	45.9168476324056	-999	RFD	R	strip	53.8743	3.92183	42.4783	n/a	precentral	n/a	n/a
+RFD6	46.2202	9.99177	49.3551061853512	-999	RFD	R	strip	49.4363	13.8983	43.8422	n/a	caudalmiddlefrontal	n/a	n/a
+RFD7	43.4437	19.1178	49.8177015529177	-999	RFD	R	strip	44.0608	22.0039	43.0055	n/a	caudalmiddlefrontal	n/a	n/a
+RFD8	40.6313	31.6203	47.2015419465794	-999	RFD	R	strip	37.2387	30.3173	41.0532	n/a	caudalmiddlefrontal	n/a	n/a
+RAT1	18.9713	14.3566	-30.252947669399	-999	RAT	R	strip	23.5811	9.7801	-23.3627	n/a	lateralorbitofrontal	n/a	n/a
+RAT2	22.4274	15.6391	-37.0827931225203	-999	RAT	R	strip	24.6836	11.8273	-33.0083	n/a	temporalpole	n/a	n/a
+RAT3	29.5302	17.5169	-43.7061793654119	-999	RAT	R	strip	31.5676	11.7853	-37.8747	n/a	temporalpole	n/a	n/a
+RAT5	53.6429	7.52453	-42.11876874415	-999	RAT	R	strip	48.0495	2.11441	-30.3541	n/a	middletemporal	n/a	n/a
+RAT6	61.3023	1.70694	-34.8291592261736	-999	RAT	R	strip	58.2108	-0.763518	-25.2738	n/a	middletemporal	n/a	n/a
+RAT7	66.5667	-6.29521	-28.807873041767	-999	RAT	R	strip	65.9909	-7.52174	-22.7898	n/a	middletemporal	n/a	n/a
+RAT8	69.7205	-12.3194	-20.0825402033919	-999	RAT	R	strip	72.7496	-12.7126	-17.3865	n/a	middletemporal	n/a	n/a
+RSTA1	12.6231	18.8006	-26.4239252634577	-999	RSTA	R	strip	11.3378	15.4983	-19.7616	n/a	medialorbitofrontal	n/a	n/a
+RSTA2	13.4759	12.8037	-25.0445217988171	-999	RSTA	R	strip	18.1717	8.31821	-19.0886	n/a	lateralorbitofrontal	n/a	n/a
+RSTA3	17.537	4.54943	-30.9936663762787	-999	RSTA	R	strip	20.2578	2.35313	-27.175	n/a	entorhinal	n/a	n/a
+RSTA5	32.316	-0.849308	-41.9022218180426	-999	RSTA	R	strip	31.6778	-6.92039	-40.3508	n/a	fusiform	n/a	n/a
+RSTA6	45.2262	-3.84705	-43.3945862542599	-999	RSTA	R	strip	41.8813	-6.47843	-39.154	n/a	inferiortemporal	n/a	n/a
+RSTA7	56.2307	1.72751	-41.0797081325768	-999	RSTA	R	strip	49.5643	-4.79836	-32.2387	n/a	inferiortemporal	n/a	n/a
+RSTA8	61.5185	1.64964	-33.5495231979119	-999	RSTA	R	strip	57.2408	-3.01864	-24.8779	n/a	middletemporal	n/a	n/a
+RSTB1	4.8294	-56.9875	8.57900655250798	-999	RSTB	R	strip	7.8432	-53.3013	6.05901	n/a	precuneus	n/a	n/a
+RSTB2	12.4754	-49.7416	0.131383815454021	-999	RSTB	R	strip	13.7596	-47.3309	-1.21162	n/a	lingual	n/a	n/a
+RSTB3	18.8407	-45.4599	-10.1415258756262	-999	RSTB	R	strip	19.1986	-43.2424	-8.30825	n/a	lingual	n/a	n/a
+RSTB5	29.7979	-32.5782	-24.898232095363	-999	RSTB	R	strip	32.4659	-32.1778	-20.1807	n/a	fusiform	n/a	n/a
+RSTB6	36.5038	-25.4319	-32.6582783883688	-999	RSTB	R	strip	40.2879	-25.5482	-24.4259	n/a	fusiform	n/a	n/a
+RSTB7	47.744	-18.654	-37.2724536202386	-999	RSTB	R	strip	48.0762	-18.4203	-26.4439	n/a	inferiortemporal	n/a	n/a
+RSTB8	59.7419	-12.6734	-36.9885244037313	-999	RSTB	R	strip	57.2971	-10.8589	-26.6363	n/a	middletemporal	n/a	n/a
+RPT1	57.9265	-70.2043	-9.80743294494532	-999	RPT	R	strip	58.1895	-65.6832	-5.48073	n/a	fusiform	n/a	n/a
+RPT2	66.6876	-57.6643	-16.4405253720519	-999	RPT	R	strip	61.6448	-58.0176	-11.0031	n/a	inferiortemporal	n/a	n/a
+RPT3	66.9815	-53.043	-23.2495864832763	-999	RPT	R	strip	61.6786	-48.4481	-16.0766	n/a	inferiortemporal	n/a	n/a
+RPT5	62.5102	-30.1068	-29.489800519309	-999	RPT	R	strip	59.2468	-28.8163	-21.7564	n/a	inferiortemporal	n/a	n/a
+RPT6	65.9022	-19.9907	-28.5039706976109	-999	RPT	R	strip	58.247	-18.3727	-22.8497	n/a	inferiortemporal	n/a	n/a
+RPT7	64.2062	-6.30554	-31.6166602049991	-999	RPT	R	strip	57.2955	-9.51965	-26.8913	n/a	middletemporal	n/a	n/a
+RPT8	62.1209	2.91007	-32.7541975755613	-999	RPT	R	strip	62.649	-0.663826	-29.3221	n/a	middletemporal	n/a	n/a
+RIHA1	-0.848149	54.2374	25.4325640753559	-999	RIHA	L	strip	6.15633	53.6777	28.4968	n/a	superiorfrontal	n/a	n/a
+RIHA2	0.615607	54.1001	16.4861701204909	-999	RIHA	R	strip	2.88027	55.5749	17.8008	n/a	superiorfrontal	n/a	n/a
+RIHA3	1.93617	54.5573	5.5555552138253	-999	RIHA	R	strip	0.577211	57.4954	7.13659	n/a	superiorfrontal	n/a	n/a
+RIHA4	0.0192612	57.9344	-6.41596348622649	-999	RIHA	R	strip	0.707879	58.583	-3.23673	n/a	medialorbitofrontal	n/a	n/a
+RIHB1	1.91283	3.62326	41.5987045937913	-999	RIHB	R	strip	0.373939	10.7119	37.0366	n/a	posteriorcingulate	n/a	n/a
+RIHB2	1.17932	16.1632	40.6859352562742	-999	RIHB	R	strip	0.333642	21.3797	36.8977	n/a	superiorfrontal	n/a	n/a
+RIHB3	-0.963475	25.7626	42.3266714286137	-999	RIHB	L	strip	1.75172	32.9745	36.625	n/a	superiorfrontal	n/a	n/a
+RIHB4	-0.290337	35.6434	43.7795936177739	-999	RIHB	L	strip	5.12547	42.2836	36.3828	n/a	superiorfrontal	n/a	n/a
+RPH1	16.0967	-12.5485	-21.9199651525691	-999	RPH	R	depth	15.8288	-14.957	-18.9207	Right PHG parahippocampal gyrus	n/a	n/a	Right EC
+RPH2	20.6296	-11.7823	-26.439808416202	-999	RPH	R	depth	21.6927	-14.3244	-20.6978	Right Cerebral White Matter	n/a	n/a	n/a
+RPH4	28.175	-9.55581	-31.9373495124584	-999	RPH	R	depth	31.466	-11.6662	-24.1199	Right FuG fusiform gyrus	entorhinal	BA35	Right PRC
+RPH5	33.8206	-8.96994	-31.8499671805448	-999	RPH	R	depth	37.3166	-10.8341	-25.0061	Right Cerebral White Matter	fusiform	n/a	n/a
+RPH7	48.8276	-5.63308	-30.8419540185968	-999	RPH	R	depth	48.0169	-8.348	-25.1107	Right ITG inferior temporal gyrus	middletemporal	n/a	n/a
+RPH8	55.7045	-4.66297	-29.1042256254785	-999	RPH	R	depth	52.8674	-7.14025	-24.2441	Right MTG middle temporal gyrus	middletemporal	n/a	n/a
+RAH1	18.6924	-2.57862	-30.4249036760463	-999	RAH	R	depth	20.2423	-6.17629	-23.693	Right Ent entorhinal area	n/a	n/a	Right EC
+RAH2	23.5322	-2.32858	-31.102712832665	-999	RAH	R	depth	26.0928	-5.34423	-24.5792	Right Cerebral White Matter	n/a	n/a	n/a
+RAH4	34.1549	-2.71672	-31.367619691608	-999	RAH	R	depth	35.8365	-5.31259	-25.1788	Right Cerebral White Matter	entorhinal	n/a	n/a
+RAH5	40.6622	-3.38737	-31.4278766854045	-999	RAH	R	depth	41.6881	-5.3733	-25.895	Right Cerebral White Matter	fusiform	n/a	n/a
+RAH7	55.7412	-2.63209	-29.2478592747054	-999	RAH	R	depth	52.8645	-4.90823	-24.669	Right MTG middle temporal gyrus	middletemporal	n/a	n/a
+RAH8	59.7867	-3.065	-27.8095001851613	-999	RAH	R	depth	57.2295	-4.60484	-23.647	Right MTG middle temporal gyrus	middletemporal	n/a	n/a
+RAMG1	18.1843	3.20924	-27.412557324	-999	RAMG	R	depth	19.2158	-0.591198	-21.5388	Right Ent entorhinal area	n/a	n/a	Right EC
+RAMG2	23.2519	2.10639	-29.0457436174197	-999	RAMG	R	depth	24.5809	-0.663469	-22.2695	Right Ent entorhinal area	n/a	n/a	Right EC
+RAMG4	34.0651	1.49284	-29.8361311955526	-999	RAMG	R	depth	34.8314	-0.919216	-24.191	Right Cerebral White Matter	entorhinal	n/a	n/a
+RAMG5	40.6889	1.94687	-28.7679403525906	-999	RAMG	R	depth	40.183	-0.792197	-24.0308	Right Cerebral White Matter	inferiortemporal	n/a	n/a
+RAMG7	55.191	0.467628	-30.8473507700106	-999	RAMG	R	depth	51.3873	-1.6187	-24.4168	Right MTG middle temporal gyrus	middletemporal	n/a	n/a
+LPH1	-22.5339	-11.3002	-23.2983954445514	-999	LPH	L	depth	-20.6742	-14.7312	-19.2921	Left PHG parahippocampal gyrus	n/a	SUB	Left Sub
+LPH2	-27.576	-9.66879	-25.1008585934048	-999	LPH	L	depth	-26.5141	-13.5307	-19.7219	Left Hippocampus	n/a	CA1	Left CA1
+LPH3	-32.3949	-9.26884	-28.4949300931583	-999	LPH	L	depth	-31.8669	-12.7649	-20.0521	Left Hippocampus	n/a	CA1	Left CA1
+LPH4	-40.1524	-7.41044	-26.3576273532959	-999	LPH	L	depth	-37.7264	-11.7118	-19.0604	Left Cerebral White Matter	n/a	n/a	n/a
+LPH5	-43.1897	-7.71913	-24.7752273309455	-999	LPH	L	depth	-42.1051	-11.8157	-19.1916	Left Cerebral White Matter	fusiform	n/a	n/a
+LPH6	-48.2514	-6.50961	-21.9978948099829	-999	LPH	L	depth	-47.4713	-10.8506	-18.6307	Left Cerebral White Matter	middletemporal	n/a	n/a
+LPH7	-54.7131	-4.70381	-20.6438989381641	-999	LPH	L	depth	-53.3247	-9.45064	-18.1697	Left MTG middle temporal gyrus	middletemporal	n/a	n/a
+LPH8	-61.2356	-5.02999	-19.6662333159542	-999	LPH	L	depth	-58.7032	-9.17897	-16.5479	Left Cerebral White Matter	middletemporal	n/a	n/a
+LAH1	-29.5587	-1.32472	-26.2988175337425	-999	LAH	L	depth	-27.5177	-5.21945	-19.9447	Left Amygdala	n/a	n/a	Left Amy
+LAH2	-35.7973	-0.800431	-26.2976680209001	-999	LAH	L	depth	-32.8829	-5.14718	-19.2139	Left Cerebral White Matter	n/a	n/a	Left Amy
+LAH3	-40.8475	-0.766284	-25.2132483987968	-999	LAH	L	depth	-38.7211	-5.28575	-19.3887	Left Cerebral White Matter	n/a	n/a	n/a
+LAH4	-44.8392	-1.61741	-23.4146316677245	-999	LAH	L	depth	-44.0715	-6.30565	-19.3789	Left Cerebral White Matter	superiortemporal	n/a	n/a
+LAH5	-50.2024	-0.935962	-20.5819649662645	-999	LAH	L	depth	-49.9231	-6.24493	-18.6627	Left MTG middle temporal gyrus	middletemporal	n/a	n/a
+LAH6	-57.0311	-1.21927	-19.4654045934041	-999	LAH	L	depth	-55.2883	-6.17265	-17.9319	Left MTG middle temporal gyrus	middletemporal	n/a	n/a
+LAH7	-62.2255	-3.20275	-19.5241983018666	-999	LAH	L	depth	-59.6786	-7.41641	-16.9171	Left MTG middle temporal gyrus	middletemporal	n/a	n/a
+LAH8	-66.4142	-4.95702	-16.8892452569604	-999	LAH	L	depth	-64.1167	-7.51609	-12.8688	Left MTG middle temporal gyrus	middletemporal	n/a	n/a
+LAMG1	-25.8357	-1.78255	-29.6000890305256	-999	LAMG	L	depth	-25.0246	-6.05876	-23.8811	Left Cerebral White Matter	n/a	n/a	Left Amy
+LAMG2	-30.7552	-1.35173	-31.5126680413526	-999	LAMG	L	depth	-30.8628	-6.19744	-24.0558	Left Cerebral White Matter	entorhinal	n/a	n/a
+LAMG3	-36.8399	-0.315856	-31.5014340484389	-999	LAMG	L	depth	-36.2155	-5.43167	-24.3862	Left Cerebral White Matter	entorhinal	n/a	n/a
+LAMG4	-41.9588	0.395672	-29.0766113275216	-999	LAMG	L	depth	-40.6076	-5.33629	-23.6263	Left Cerebral White Matter	inferiortemporal	n/a	n/a
+LAMG5	-47.2052	0.810134	-25.6142431440603	-999	LAMG	L	depth	-46.4592	-5.27557	-22.9102	Left Cerebral White Matter	superiortemporal	n/a	n/a
+LAMG6	-52.8309	0.290361	-21.6218862066511	-999	LAMG	L	depth	-51.8434	-5.79705	-20.6729	Left MTG middle temporal gyrus	middletemporal	n/a	n/a
+LAMG7	-58.1234	-0.175279	-19.9855323705748	-999	LAMG	L	depth	-56.2489	-5.50227	-19.022	Left MTG middle temporal gyrus	middletemporal	n/a	n/a
+LAMG8	-64.507	-2.27453	-18.5783225461824	-999	LAMG	L	depth	-62.1331	-5.83591	-15.9084	Left MTG middle temporal gyrus	middletemporal	n/a	n/a
+LFA1	-10.3944	19.1737	-26.2557114095636	-999	LFA	L	strip	-9.55937	17.7277	-22.7649	n/a	lateralorbitofrontal	n/a	n/a
+LFA2	-20.2119	25.5141	-28.4572761999625	-999	LFA	L	strip	-19.806	20.1159	-21.7139	n/a	lateralorbitofrontal	n/a	n/a
+LFA3	-30.4921	28.9362	-25.9761638747521	-999	LFA	L	strip	-31.047	23.6727	-19.5255	n/a	lateralorbitofrontal	n/a	n/a
+LFA4	-42.2168	29.8583	-23.2626559545481	-999	LFA	L	strip	-40.8267	25.9251	-17.0384	n/a	lateralorbitofrontal	n/a	n/a
+LFA5	-55.0786	29.8119	-13.9576985862494	-999	LFA	L	strip	-50.1608	29.2335	-11.9489	n/a	parsorbitalis	n/a	n/a
+LFA6	-58.8456	32.6405	-5.57138011188947	-999	LFA	L	strip	-53.7025	32.039	-3.31126	n/a	parstriangularis	n/a	n/a
+LFA7	-58.4357	35.0391	5.38136225408152	-999	LFA	L	strip	-51.4057	35.0178	6.19017	n/a	parsopercularis	n/a	n/a
+LFA8	-53.9936	36.1912	16.4339984055874	-999	LFA	L	strip	-49.1201	36.4238	17.1942	n/a	rostralmiddlefrontal	n/a	n/a
+LFB1	2.09271	21.8537	-24.9871404517835	-999	LFB	R	strip	1.15446	20.0145	-23.7604	n/a	medialorbitofrontal	n/a	n/a
+LFB2	-10.9651	26.7625	-28.1287119534212	-999	LFB	L	strip	-8.60795	24.1999	-23.0349	n/a	medialorbitofrontal	n/a	n/a
+LFB3	-18.4147	32.415	-28.568311280417	-999	LFB	L	strip	-17.4188	29.6001	-21.1136	n/a	lateralorbitofrontal	n/a	n/a
+LFB4	-26.5952	36.7353	-24.1738093835861	-999	LFB	L	strip	-25.2688	34.3301	-18.1025	n/a	lateralorbitofrontal	n/a	n/a
+LFB5	-37.9468	41.3066	-22.7007702677621	-999	LFB	L	strip	-35.5464	40.2418	-15.8645	n/a	parsorbitalis	n/a	n/a
+LFB6	-46.0971	45.3058	-18.3449914196264	-999	LFB	L	strip	-43.4155	44.3779	-11.3468	n/a	parsorbitalis	n/a	n/a
+LFB7	-52.995	44.9582	-6.86318689142382	-999	LFB	L	strip	-46.954	44.9515	-2.28405	n/a	parstriangularis	n/a	n/a
+LFB8	-54.6965	42.2583	5.04352437710509	-999	LFB	L	strip	-47.0835	42.9729	8.29692	n/a	rostralmiddlefrontal	n/a	n/a
+LFC1	-46.0832	30.2149	-22.2486332246068	-999	LFC	L	strip	-44.2335	26.7371	-17.3104	n/a	parsorbitalis	n/a	n/a
+LFC2	-45.984	37.6744	-21.1216179702214	-999	LFC	L	strip	-42.3276	37.4493	-17.4253	n/a	parsorbitalis	n/a	n/a
+LFC3	-41.466	46.5214	-20.5083627381772	-999	LFC	L	strip	-38.0085	47.6256	-15.9609	n/a	parsorbitalis	n/a	n/a
+LFC4	-36.7496	57.2515	-17.2413519301845	-999	LFC	L	strip	-34.6997	56.1449	-11.4277	n/a	parsorbitalis	n/a	n/a
+LFC5	-32.6893	61.9127	-11.6937866266033	-999	LFC	L	strip	-30.4353	62.7542	-5.10395	n/a	rostralmiddlefrontal	n/a	n/a
+LFC6	-30.3054	64.2397	-2.73785728050169	-999	LFC	L	strip	-25.7066	66.2359	4.36235	n/a	rostralmiddlefrontal	n/a	n/a
+LFC7	-25.55	63.8008	11.6789592468177	-999	LFC	L	strip	-21.4385	64.9487	13.4438	n/a	rostralmiddlefrontal	n/a	n/a
+LFC8	-19.7555	61.8489	24.3250037997427	-999	LFC	L	strip	-18.1314	59.5215	22.8235	n/a	rostralmiddlefrontal	n/a	n/a
+LFD1	-53.5054	-77.9713	7.96147186832403	-999	LFD	L	strip	-52.0294	-76.1202	13.0328	n/a	lateraloccipital	n/a	n/a
+LFD2	-58.4377	-67.5029	16.7257736313691	-999	LFD	L	strip	-56.5183	-67.5598	18.7576	n/a	lateraloccipital	n/a	n/a
+LFD3	-60.9202	-60.3481	25.5283468095252	-999	LFD	L	strip	-59.0668	-59.7431	25.2167	n/a	inferiorparietal	n/a	n/a
+LFD4	-64.0446	-52.419	30.4608682935495	-999	LFD	L	strip	-60.1378	-50.4128	29.895	n/a	supramarginal	n/a	n/a
+LFD5	-59.9299	-44.6088	45.7948440843574	-999	LFD	L	strip	-61.7145	-41.6807	36.2041	n/a	supramarginal	n/a	n/a
+LFD6	-62.8936	-30.5192	42.9612057974426	-999	LFD	L	strip	-61.8125	-32.327	40.9146	n/a	supramarginal	n/a	n/a
+LFD7	-58.7361	-24.6257	47.6062500346002	-999	LFD	L	strip	-59.465	-22.6728	44.6375	n/a	supramarginal	n/a	n/a
+LFD8	-59.3179	-17.2142	47.0237562380136	-999	LFD	L	strip	-55.1586	-12.7296	47.3569	n/a	postcentral	n/a	n/a
+LAT1	-18.703	-6.07365	-33.7454026844351	-999	LAT	L	strip	-17.1998	-11.7293	-24.8554	n/a	entorhinal	n/a	n/a
+LAT2	-21.6095	2.58564	-35.5374589099121	-999	LAT	L	strip	-18.6609	-0.356741	-28.0003	n/a	temporalpole	n/a	n/a
+LAT3	-24.2809	11.2375	-40.9940115235525	-999	LAT	L	strip	-22.0781	8.49056	-29.8022	n/a	temporalpole	n/a	n/a
+LAT4	-27.4678	14.9922	-43.6782181413638	-999	LAT	L	strip	-28.4121	15.4828	-31.3516	n/a	temporalpole	n/a	n/a
+LAT5	-37.981	20.1312	-43.7183343521611	-999	LAT	L	strip	-38.6277	14.3475	-31.4875	n/a	temporalpole	n/a	n/a
+LAT6	-52.817	16.4871	-41.0814332426232	-999	LAT	L	strip	-46.4172	8.11225	-29.6395	n/a	superiortemporal	n/a	n/a
+LAT7	-57.6794	9.48065	-36.1132283588852	-999	LAT	L	strip	-54.2044	0.0915442	-27.4516	n/a	middletemporal	n/a	n/a
+LAT8	-61.9012	0.573078	-33.0415851101846	-999	LAT	L	strip	-59.5455	-8.07086	-26.0817	n/a	middletemporal	n/a	n/a

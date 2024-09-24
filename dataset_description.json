@@ -1,0 +1,9 @@
+{
+    "Name": "Spatial Navigation Memory of Object Locations",
+    "BIDSVersion": "1.7.0",
+    "DatasetType": "raw",
+    "Authors": [
+        "Haydn G. Herrema",
+        "Michael J. Kahana"
+    ]
+}
